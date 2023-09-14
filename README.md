@@ -3,7 +3,7 @@
 💻 **Development Environment**
 
 ![windows11](https://img.shields.io/badge/windows11-000000?style=for-the-badge&logo=windows11&logoColor=0078D4)
-![wsl2](https://img.shields.io/badge/wsl2-000000?style=for-the-badge&logo=wsl2)
+![wsl2](https://img.shields.io/badge/wsl2-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![visual%20studio%20code](https://img.shields.io/badge/visual%20studio%20code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC)
 ![node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js)
 ![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm)
@@ -21,13 +21,13 @@
 
 ![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react)
 ![create%20react%20app](https://img.shields.io/badge/create%20react%20app-000000?style=for-the-badge&logo=create%20react%20app)
-![craco](https://img.shields.io/badge/craco-000000?style=for-the-badge&logo=craco)
+![craco](https://img.shields.io/badge/craco-000000?style=for-the-badge&logo=create%20react%20app)
 ![react%20router](https://img.shields.io/badge/react%20router-000000?style=for-the-badge&logo=react%20router)
 
 😎 **Framework**
 
 ![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js)
-![create%20next%20app](https://img.shields.io/badge/create%20next%20app-000000?style=for-the-badge&logo=create%20next%20app)
+![create%20next%20app](https://img.shields.io/badge/create%20next%20app-000000?style=for-the-badge&logo=next.js)
 
 😎 **State Mangement**
 
@@ -72,8 +72,8 @@
 
 😎 **Deploy**
 
-![amazonaws](https://img.shields.io/badge/prettier-000000?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
-![vercel](https://img.shields.io/badge/prettier-000000?style=for-the-badge&logo=vercel&logoColor=000000)
+![amazonaws](https://img.shields.io/badge/amazonaws-000000?style=for-the-badge&logo=amazonaws)
+![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel)
 
 😎 **etc**
 
